@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drj09
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Salesforce and Flutter
+- 🌱 I’m currently learning Salesforce and Mulesoft
 - 📫 Dheeraj160199@gmail.com
 
 <!---
