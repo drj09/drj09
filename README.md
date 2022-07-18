@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @drj09
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning Salesforce and Mulesoft
+- 👀 I’m interested in Software development and moving forward with Web3 and BlockChain
 - 📫 Dheeraj160199@gmail.com
 
 <!---
