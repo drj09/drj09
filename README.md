@@ -25,7 +25,7 @@ Software Engineer with 2 years of experience in Salesforce, and Mulesoft Integri
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; align-items:center">
-<a href="linkedin.com/in/dheeraj09/" target="blank" style="margin-left:15px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="starc007" height="30" width="30" /></a>
+<a href="linkedin.com/in/dheeraj09/" target="blank" style="margin-left:15px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="starc007" height="30" width="30" />  </a>
 <a href="https://www.instagram.com/cursed_enigma_drj/" target="blank" style="margin-left:15px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurra3h" height="30" width="30" /></a>
 </p>
 
