@@ -38,9 +38,7 @@ Software Engineer with 2 years of experience in Salesforce, and Mulesoft Integri
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=starc007&show_icons=true&locale=en" alt="starc007" /></p>
 
--->
-Made with ❤, by Dheeraj
-     <!--- 
+
 # <p align="center">Title</p>
 
 Your description here
@@ -59,4 +57,11 @@ Your description here
 
 drj09/drj09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+--->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=starc007&show_icons=true&locale=en" alt="starc007" /></p>
+Made with ❤, by Dheeraj
+    
+    
 --->
